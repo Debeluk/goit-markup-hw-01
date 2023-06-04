@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-GOIT Hoomework 1 
+GOIT Homework 1 
